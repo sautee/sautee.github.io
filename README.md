@@ -2,4 +2,4 @@
 
 # sautee.github.io
 
-A dash of - compute
+A dash of compute
