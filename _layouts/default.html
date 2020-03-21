@@ -1,35 +1,39 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<ul class="posts">
+<html>
 
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:someemail@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/sautee">github.com/sautee</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+<head>
+    <title>{{ page.title }}</title>
+    <!-- link to main stylesheet -->
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/cv">CV</a></li>
+            <li><a href="/blog">Blog</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+
+        {{ content }}
+
+    </div><!-- /.container -->
+    <ul class="posts">
+
+        {% for post in site.posts %}
+        <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}"
+                title="{{ post.title }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+    <footer>
+        <ul>
+            <li><a href="mailto:someemail@gmail.com">email</a></li>
+            <li><a href="https://github.com/sautee">github.com/sautee</a></li>
+        </ul>
+    </footer>
+</body>
+
+</html>
