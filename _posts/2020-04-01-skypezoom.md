@@ -6,7 +6,7 @@ date: 2020-04-01
 
 # Product Case Study - Skype vs Zoom
 
-I was reading up on an article on the [The Verge] (https://www.theverge.com/2020/3/31/21200844/microsoft-skype-zoom-houseparty-coronavirus-pandemic-usage-growth-competition) yesterday about Skype vs Zoom. I thought it would make an interesting case study.
+I was reading up on an article on the [The Verge](https://www.theverge.com/2020/3/31/21200844/microsoft-skype-zoom-houseparty-coronavirus-pandemic-usage-growth-competition) yesterday about Skype vs Zoom. I thought it would make an interesting case study.
 
 --
 
