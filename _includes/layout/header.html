@@ -1,0 +1,13 @@
+  <header>
+    <h1>
+      {{ site.title }}
+    </h1>
+    <nav>
+      Navigation:
+      {% for page in site.pages %}
+        {% if page.title and page.hidden != true %}
+          
+        {% endif %}
+      {% endfor %}
+    </nav>
+  </header>
