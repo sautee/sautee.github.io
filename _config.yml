@@ -4,4 +4,4 @@ description: "A Dash Of Compute!"
 keywords: ["compute", "jekyll"]
 
 # Third party services
-google-analytics: 
+google-analytics: 'UA-163320523-1'
