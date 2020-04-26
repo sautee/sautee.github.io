@@ -1,8 +1,3 @@
----
-layout: posts
-title: "covid19"
-date: 2020-03-21
----
 
 Build off of -
 
