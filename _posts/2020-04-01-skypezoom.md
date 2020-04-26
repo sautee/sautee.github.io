@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pilot"
+title: "Product Case Study - Skype vs Zoom"
 date: 2020-04-01
 ---
 
