@@ -5,7 +5,9 @@
     <nav>
       Navigation:
       {% for page in site.pages %}
-        <p>{{ page.title }}</p>
+        {% if page.title and page.hidden != true %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% endif %}
       {% endfor %}
     </nav>
   </header>
