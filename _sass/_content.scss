@@ -1,0 +1,42 @@
+/* content styles go here */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: $blue;
+}
+
+p, pre {
+  max-width: $content-width;
+}
+
+blockquote {
+  border-left: 2px solid lightgrey;
+}
+
+header {
+  margin-bottom: 50px;
+  padding-bottom: 25px;
+  border-bottom: 1px solid lightgrey;
+  nav {
+    a {
+      background: $blue;
+      color: white;
+      padding: 4px;
+    }
+  }
+}
+
+footer {
+  margin-top: 50px;
+  padding-top: 25px;
+  border-top: 1px solid lightgrey;
+}
