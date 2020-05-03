@@ -1,1 +1,3 @@
-console.log("Welcome to Dash of Compute!");
+const paragraph = document.createElement('p')
+paragraph.textContent = "Welcome to Dash of Compute!"
+document.body.appendChild(paragraph);
