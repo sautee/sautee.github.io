@@ -1,3 +1,3 @@
-const paragraph = document.createElement('p')
-paragraph.textContent = "Welcome to Dash of Compute!"
+let date = new Date();
+paragraph.textContent = date;
 document.body.appendChild(paragraph);
