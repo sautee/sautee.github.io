@@ -1,7 +1,6 @@
 ---
-title: Home
 layout: home
 permalink: /
 ---
 
-Articles on tech, management and others
+Articles on technology, software, management and others.
