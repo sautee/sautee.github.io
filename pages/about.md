@@ -4,6 +4,6 @@ layout: page
 permalink: /about
 ---
 
-This is an about page, using a standard `page` layout.
+My name is Andrew Chacko. I work as a Product Manager. I write on topics relating to product management, software and technology.
 
-_Go ahead, plug your SoundCloud mixtape here!_
+Views expressed are mine and do not reflect those of my employer.
