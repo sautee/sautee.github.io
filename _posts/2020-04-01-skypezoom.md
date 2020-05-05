@@ -10,7 +10,9 @@ I was reading up on an article in [The Verge](https://www.theverge.com/2020/3/31
 
 ## TL;DR
 
-The verdict is in. With the ongoing covid-19 pandemic the video conferencing application Zoom is having its moment. Zoom has become the video conferencing app of choice for many across the globe. Zoom is being used to hold business meetings, school classes, weddings, family and friends meet, you name it.
+The verdict is in. With the ongoing covid-19 pandemic the video conferencing application Zoom is having its moment. 
+
+Zoom has become the video conferencing app of choice for many across the globe. Zoom is being used to hold business meetings, school classes, weddings, family and friends meet, you name it.
 
 Skype, which was the conferencing app of choice just a few years ago, is struggling to have a similar moment. Skype was so popular it was included in the Oxford dictionary and used as a verb - **'I'll Skype you tomorrow'**. It still has around 23 million daily active users, but it'll likely be replaced by Microsoft Teams in both commercial and enterprise.
 
@@ -26,19 +28,21 @@ The transition lasted years and instead of quickly fixing underlying issues, Mic
 
 Some of these underlying issues included calls, messages and notifications repeating on multiple devices, calls not connecting properly, microphone driver issues and others.
 
-Skype became unreliable at a time when rivals such as Zoom were offering **solid alternatives**. Users were not happy. It seemed like Microsoft was not listening to what users wanted.
+Skype became unreliable at a time when rivals such as Zoom were offering **solid alternatives**. Users were not happy. 
+
+It seemed like Microsoft was not listening to what users wanted.
 
 ## THE RISE OF ZOOM
 
 Right from the beginning Zoom had a **singular purpose** - join conference calls with a single click (nearly).
 
-To join meetings, Zoom does not require users to create an account. It is free to use for up to 40 minutes and users can join calls with a simple link. Video calls are reliable and can host up to 100 participants in the free plan.
+To join meetings Zoom does not require users to create an account. It is free to use for up to 40 minutes and users can join calls with a simple link. Video calls are reliable and can host up to 100 participants in the free plan.
 
 Zoom's simple app approach captured users. It **works**, it is **reliable** and it is **simple to use**.
 
 It does have its criticisms especially around privacy and security. These concerns however have not precluded its growth.
 
-Zoom currently sits on the top of the US App Store list and in second position in the UK Apps Store.
+Zoom currently sits on the top of the US App Store list and in second position in the UK App Store.
 
 ## UPDATES
 
