@@ -4,9 +4,9 @@ title: "Product Case Study - Fitbit vs Spotify"
 date: 2020-05-01
 ---
 
-Marty Cagan [recently wrote](https://svpg.com/spotify-vs-fitbit/) an article on Fitbit, Spotify and empowered product teams.
+Marty Cagan [recently wrote](https://svpg.com/spotify-vs-fitbit/) an article on Fitbit, Spotify and empowered product teams. I strongly recommend reading it.
 
-The main takeaways from the article
+A primary takeaway from the article.
 
 ### Output vs Outcome
 Spotify built a company worth more than $25B while competing (and winning) against heavyweights like Apple and Amazon. 
