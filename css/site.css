@@ -34,9 +34,9 @@ a {
 }
 
 blockquote {
-  padding: 0 1em;
+  padding: 0 0.25em;
   color: #6a737d;
-  border-left: solid #dfe2e5;
+  border-left: 0.25em solid #dfe2e5;
 }
 
 ul.posts {
