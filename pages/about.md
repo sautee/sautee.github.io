@@ -4,6 +4,6 @@ layout: page
 permalink: /about
 ---
 
-My name is Andrew Chacko. I work as a Product Manager. I write on topics relating to product management, software and technology.
+Hi, I'm Andrew Chacko. I work in Product Management. I write on product management, software and technology.
 
-Views expressed are mine and do not reflect those of my employer.
+Views expressed here are mine and do not reflect those of my employer.
