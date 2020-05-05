@@ -12,7 +12,7 @@ I was reading up on an article in [The Verge](https://www.theverge.com/2020/3/31
 
 The verdict is in. With the ongoing covid-19 pandemic the video conferencing application Zoom is having its moment. Zoom has become the video conferencing app of choice for many across the globe. Zoom is being used to hold business meetings, school classes, weddings, family and friends meet, you name it.
 
-Skype, which was the conferencing app of choice just a few years ago, is struggling to have a similar moment. Skype was so popular it was included in the Oxford dictionary and used as a verb - 'I'll Skype you tomorrow'. It is still has around 23 million daily active users, but it'll most likely be replaced by Microsoft Teams in both commercial and enterprise.
+Skype, which was the conferencing app of choice just a few years ago, is struggling to have a similar moment. Skype was so popular it was included in the Oxford dictionary and used as a verb - **'I'll Skype you tomorrow'**. It still has around 23 million daily active users, but it'll likely be replaced by Microsoft Teams in both commercial and enterprise.
 
 ## SKYPE IS NOT FEELING WELL
 
@@ -40,9 +40,11 @@ It does have its criticisms especially around privacy and security. These concer
 
 Zoom currently sits on the top of the US App Store list and in second position in the UK Apps Store.
 
-## UPDATE 
+## UPDATES
 
-Zoom 5.0, released April 27th, comes with a slew of [security improvements](https://blog.zoom.us/wordpress/2020/04/27/its-here-5-things-to-know-about-zoom-5-0/)
+Zoom 5.0, released April 27th, came with a slew of [security improvements](https://blog.zoom.us/wordpress/2020/04/27/its-here-5-things-to-know-about-zoom-5-0/)
+
+Skype is seeing [some growth too!](https://www.google.com/amp/s/www.fool.com/amp/investing/2020/03/31/microsofts-skype-sees-70-user-growth-in-march-2020.aspx)
 
 Facebook's answer to Zoom is [Rooms](https://www.google.com/amp/s/www.theverge.com/platform/amp/2020/4/24/21233468/facebook-messenger-rooms-live-instagram-live-igtv-video-chat)
 
