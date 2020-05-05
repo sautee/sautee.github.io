@@ -1,22 +1,16 @@
-  <script src="/js/site.js"></script>
+<script src="/js/site.js"></script>
 
-  <!-- include the Glitch button to show what the webpage is about and
-        to make it easier for folks to view source and remix -->
-  <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div>
-  <script src="https://button.glitch.me/button.js"></script>
+{% if site.google-analytics %}
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google-analytics }}"></script>
+<script>
+    if (!(navigator.doNotTrack == "1" || window.doNotTrack == "1")) {
 
-  {% if site.google-analytics %}
-  <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google-analytics }}"></script>
-  <script>
-  if (!(navigator.doNotTrack == "1" || window.doNotTrack == "1")) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
 
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', '{{ site.google-analytics }}');
-
-  }
-  </script>
-  {% endif %}
+        gtag('config', '{{ site.google-analytics }}');
+    }
+</script>
+{% endif %}
