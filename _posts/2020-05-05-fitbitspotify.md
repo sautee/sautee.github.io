@@ -17,7 +17,7 @@ Spotify built a company worth more than $25B while competing (and winning) again
 > level of autonomy given to those engineers. At Spotify, the dial for 
 > autonomy is set all the way to 10.
 
-While empowered engineering teams at Spotify helped deliver consistent innovation,Cagan goes on mention the requirement for a strong product leadership also. **Empowered product teams.**
+While empowered engineering teams at Spotify helped deliver consistent innovation, Cagan goes on mention the requirement for a strong product leadership also. **Empowered product teams.**
 
 Fitbit on the other hand, whilst also being in the hugely competitive wearables market, adopted the polar opposite of the empowered team model. This helped increase output but with far less innovation. In the wearables market innovation is key. This change in Fitbit's model resulted in depreciating business value.
 
@@ -31,5 +31,3 @@ Fitbit on the other hand, whilst also being in the hugely competitive wearables 
 > especially in an innovation-driven market like wearable technology. 
 > And sadly for Fitbit, after they adopted this process in 2015, that’s
 > precisely what we have witnessed.
-
-> Rather than obsessing over process details, you should be looking for the deeper truths that have fueled their record of innovation.
