@@ -4,7 +4,7 @@ title: "Product Case Study - Skype vs Zoom"
 date: 2020-04-01
 ---
 
-I was reading up on an article in the [The Verge](https://www.theverge.com/2020/3/31/21200844/microsoft-skype-zoom-houseparty-coronavirus-pandemic-usage-growth-competition) yesterday about Skype vs Zoom. I thought it would make an interesting case study.
+I was reading up on an article in [The Verge](https://www.theverge.com/2020/3/31/21200844/microsoft-skype-zoom-houseparty-coronavirus-pandemic-usage-growth-competition) yesterday about Skype vs Zoom. I thought it would make an interesting case study.
 
 --
 
@@ -41,6 +41,9 @@ It does have its criticisms especially around privacy and security. These concer
 Zoom currently sits on the top of the US App Store list and in second position in the UK Apps Store.
 
 ## UPDATE 
-- Zoom 5.0, released April 27th, comes with a slew of [security improvements](https://blog.zoom.us/wordpress/2020/04/27/its-here-5-things-to-know-about-zoom-5-0/)
-- Facebook's answer to Zoom is [Rooms](https://www.google.com/amp/s/www.theverge.com/platform/amp/2020/4/24/21233468/facebook-messenger-rooms-live-instagram-live-igtv-video-chat)
-- Google's answer is [Meet](https://landing.google.com/googlemeet/)
+
+Zoom 5.0, released April 27th, comes with a slew of [security improvements](https://blog.zoom.us/wordpress/2020/04/27/its-here-5-things-to-know-about-zoom-5-0/)
+
+Facebook's answer to Zoom is [Rooms](https://www.google.com/amp/s/www.theverge.com/platform/amp/2020/4/24/21233468/facebook-messenger-rooms-live-instagram-live-igtv-video-chat)
+
+Google's answer is [Meet](https://landing.google.com/googlemeet/)
