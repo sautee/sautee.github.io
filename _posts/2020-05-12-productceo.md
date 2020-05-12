@@ -12,7 +12,7 @@ The thread goes on.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is what makes the PM job incredibly hard.<br><br>This is also what makes it incredibly fun.<br><br>Wear multiple hats, build a variety of skills, make a profound impact.<br><br>All with a service leadership attitude.<br><br>There’s really no role like it.<br><br>⭐️</p>&mdash; Shreyas Doshi (@shreyas) <a href="https://twitter.com/shreyas/status/1258212703442616320?ref_src=twsrc%5Etfw">May 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I've been in similar conversations. 
+I've been in similar conversations and I fully agree with these comments.
 
 In my opinion _'Product Manager as CEO'_ encapsulates the responsibility of the role in the fewest words. 
 
