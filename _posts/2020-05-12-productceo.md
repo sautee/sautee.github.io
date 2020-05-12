@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Product Managers as CEOs"
-date: 2020-05-13
+date: 2020-05-12
 ---
 
 [Shreyas Doshi](https://twitter.com/shreyas) posted this on Twitter the other day
