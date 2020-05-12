@@ -12,4 +12,8 @@ The thread goes on.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Think like a CEO ⇒ vision, strategy, culture, company-optimal approach<br><br>Execute like a COO ⇒ process, structure, outputs<br><br>Storytell like a CMO ⇒ inspiration, creativity, customer focus<br><br>Deliver like a CFO ⇒ outcomes, efficiency, business value</p>&mdash; Shreyas Doshi (@shreyas) <a href="https://twitter.com/shreyas/status/1258212702750535681?ref_src=twsrc%5Etfw">May 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I've been in similar conversations. In my opinion '**Product Manager is the CEO of the product**' encapsulates the responsibility of the role in the fewest words. However the term 'CEO' is weighty and could leave room for the role to be misunderstood as one with simply more authority than with responsibility.
+I've been in similar conversations. 
+
+In my opinion '**Product Manager is the CEO of the product**' encapsulates the responsibility of the role in the fewest words. 
+
+However the term 'CEO' is weighty and could leave room for the role to be misunderstood as one with simply more authority than with responsibility.
