@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Product Managers as CEOs?"
+title: "Product Managers as CEOs"
 date: 2020-05-13
 ---
 
