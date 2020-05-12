@@ -10,7 +10,7 @@ date: 2020-05-12
 
 The thread goes on.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Think like a CEO ⇒ vision, strategy, culture, company-optimal approach<br><br>Execute like a COO ⇒ process, structure, outputs<br><br>Storytell like a CMO ⇒ inspiration, creativity, customer focus<br><br>Deliver like a CFO ⇒ outcomes, efficiency, business value</p>&mdash; Shreyas Doshi (@shreyas) <a href="https://twitter.com/shreyas/status/1258212702750535681?ref_src=twsrc%5Etfw">May 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is what makes the PM job incredibly hard.<br><br>This is also what makes it incredibly fun.<br><br>Wear multiple hats, build a variety of skills, make a profound impact.<br><br>All with a service leadership attitude.<br><br>There’s really no role like it.<br><br>⭐️</p>&mdash; Shreyas Doshi (@shreyas) <a href="https://twitter.com/shreyas/status/1258212703442616320?ref_src=twsrc%5Etfw">May 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I've been in similar conversations. 
 
