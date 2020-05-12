@@ -20,6 +20,11 @@ p {
   color: #333;
 }
 
+ul,
+ol {
+  line-height: 1.5em;
+}
+
 a {
   text-decoration: none;
   color: #999;
