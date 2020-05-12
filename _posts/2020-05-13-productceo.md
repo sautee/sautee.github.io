@@ -14,6 +14,6 @@ The thread goes on.
 
 I've been in similar conversations. 
 
-In my opinion _'Product Manager is the CEO of the product'_ encapsulates the responsibility of the role in the fewest words. 
+In my opinion _'Product Manager as CEO'_ encapsulates the responsibility of the role in the fewest words. 
 
 But also, the term 'CEO' could leave room for the role to be misunderstood as one with simply more authority than responsibility.
