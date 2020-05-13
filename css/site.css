@@ -10,8 +10,8 @@ html {
 }
 
 body {
-  margin: 60px auto;
-  width: 70%;
+  margin: 1em auto;
+  width: 90%;
 }
 
 p {
@@ -48,4 +48,9 @@ footer {
 
 @media screen and (min-width: 800px) {
   /* Desktop styles go here */
+body {
+  margin: 60px auto;
+  width: 70%;
+}
+  
 }
