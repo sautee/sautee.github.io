@@ -18,6 +18,8 @@ If you have CMD open, copy paste into it this test Authentication API call.
 
 Take a look at the response. See if you can make sense of it.
 
+### Public Datasets
+
 Public datasets are another great resource to explore. The city of Seattle, for example, has an [Open Data Portal](https://data.seattle.gov/).
 
 The Fremont Bridge Bicycle Counter is a popular dataset in this portal. It records the number of bikes that cross the bridge using the pedestrian/bicycle pathways
@@ -27,6 +29,8 @@ Try this.
 > curl https://data.seattle.gov/resource/65db-xm6k.csv --output fremontbikedata.csv
 
 The last bit _--output fremontbikedata.csv_ writes the dataset to a local CSV file which you can explore using Excel or similar tools. To download this in JSON, replace .csv with .json above.
+
+### Wrangle It
 
 If you want to wrangle this dataset right in the command line, try [JQ](https://stedolan.github.io/jq/) or use its online equivalent [JQ Playground](https://jqplay.org/).
 
@@ -38,6 +42,6 @@ Total number of rows
 Crossing across both sidewalks less than 10  
 > .[] | select(.fremont_bridge <= "10")
 
-**Guides**
+### Guides
 - [Everything Curl](https://ec.haxx.se/) is an extensive guide for all things curl
-- [jq Manual][https://stedolan.github.io/jq/manual/] for way more filter operations
+- [jq Manual](https://stedolan.github.io/jq/manual/) for way more filter operations
