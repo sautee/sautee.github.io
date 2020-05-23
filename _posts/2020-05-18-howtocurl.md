@@ -39,7 +39,7 @@ If you want to wrangle the Fremont Bridge Counter's JSON dataset right in the co
 _Total number of rows_
 > . | length
 
-_Crossing across both sidewalks less than 10_
+_When crossings across both sidewalks were less than 10_
 > .[] | select(.fremont_bridge <= "10")
 
 ## Guides
