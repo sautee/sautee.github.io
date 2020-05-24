@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Product Case Study - Fitbit vs Spotify"
-exceprt: "Empowered product teams"
+exceprt: "Marty Cagan on empowered product teams"
 date: 2020-05-01
 ---
 
