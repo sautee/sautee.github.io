@@ -45,7 +45,7 @@ If you want to wrangle the Fremont Bridge Counter's JSON dataset right in the co
 
 _Total number of rows_
 ```shell
-> . | length
+ . | length
 ```
 
 _When crossings across both sidewalks were less than 10_
