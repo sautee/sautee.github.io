@@ -1,9 +1,22 @@
-  <title>{{ page.title }} - {{ site.title }}</title>
+<title>{{ page.title }} - {{ site.title }}</title>
 
-  <meta charset="utf-8">
-  <meta name="description" content="{{ site.description }}">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<meta name="description" content="{{ site.description }}">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="stylesheet" href="/css/normalize.min.css" />
-  <link rel="stylesheet" href="/css/site.css">
+<meta name="author" content="Andrew Chacko">
+<meta name="description" content="Dash Of Compute - on product management, software and technology.">
+
+<!-- og:Open Graph  -->
+<meta property="og:title" content={{ page.title }}>
+<meta property="og:description" content={{ post.excerpt | strip_html | strip_newlines | truncate: 20 }}>
+<meta property="og:url" content={{ page.url }}>
+<meta property="og:site_name" content={{ site.title }}>
+
+<!-- twitter -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:creator" content="@theandrewchacko">
+
+<link rel="stylesheet" href="/css/normalize.min.css" />
+<link rel="stylesheet" href="/css/site.css">
