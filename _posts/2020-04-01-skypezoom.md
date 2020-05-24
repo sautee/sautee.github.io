@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Product Case Study - Skype vs Zoom"
+excerpt: "Zoom has become the video conferencing app of choice for many across the globe"
 date: 2020-04-01
 ---
 
