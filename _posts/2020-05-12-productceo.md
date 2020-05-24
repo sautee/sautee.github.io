@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Product Managers as CEOs"
-excerpt: "Shreyas Doshi posted this on Twitter the other day"
+excerpt: "Shreyas Doshi posted this on Twitter the other day."
 date: 2020-05-12
 ---
 
