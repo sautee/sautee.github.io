@@ -46,6 +46,14 @@ footer {
   font-size: 0.8em;
 }
 
+.highlight pre {
+  border: 1px solid #d5d5e9;
+  background-color: #eef;
+  padding: 8px 12px;
+  border-radius: 3px;
+  font-size: 15px;
+}
+
 /* Syntax highlighting styles */
 .highlight  { background: #ffffff; }
 .highlight .c { color: #999988; font-style: italic } /* Comment */
