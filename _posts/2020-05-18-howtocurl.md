@@ -33,7 +33,8 @@ The Fremont Bridge Bicycle Counter is a popular dataset in this portal. It recor
 Try this.
 
 ```shell
-curl https://data.seattle.gov/resource/65db-xm6k.csv \
+curl \
+https://data.seattle.gov/resource/65db-xm6k.csv \
 --output fremontbikedata.csv
 ```
 
