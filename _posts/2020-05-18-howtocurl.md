@@ -6,7 +6,9 @@ date: 2020-05-18
 
 The cURL utility is handy when you want to quickly explore a resource on the web such as an API or webpage.
 
-> curl google.com
+```console
+curl google.com
+```
 
 cURL comes installed by default in Windows 10 and macOS. So go ahead, open CMD and give it a whirl. Terminal, if you use macOS.
 
