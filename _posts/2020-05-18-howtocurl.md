@@ -18,7 +18,8 @@ cURL comes installed by default in Windows 10 and macOS. So go ahead, open CMD a
 If you have CMD open, copy paste into it this test Authentication API call.
 
 ```shell
-curl https://api.stripe.com/v1/charges --user sk_test_4eC39HqLyjWDarjtT1zdp7dc:
+curl https://api.stripe.com/v1/charges \
+--user sk_test_4eC39HqLyjWDarjtT1zdp7dc:
 ```
 
 Take a look at the response. See if you can make sense of it.
@@ -32,7 +33,8 @@ The Fremont Bridge Bicycle Counter is a popular dataset in this portal. It recor
 Try this.
 
 ```shell
-curl https://data.seattle.gov/resource/65db-xm6k.csv --output fremontbikedata.csv
+curl https://data.seattle.gov/resource/65db-xm6k.csv \
+--output fremontbikedata.csv
 ```
 
 The last bit _--output fremontbikedata.csv_ writes the dataset to a local CSV file which you can explore using Excel or similar tools. To download this in JSON, replace .csv with .json above.
