@@ -1,58 +1,10 @@
 ---
 layout: post
-title: "How to CURL"
+title: "DARPA Nine Questions"
 excerpt: "The cURL utility is handy when you want to quickly explore a resource on the web such as an API or webpage."
 date: 2020-05-18
 ---
 
-The cURL utility is handy when you want to quickly explore a resource on the web such as an API or webpage.
+For sixty years, DARPA has held to a singular and enduring mission: to make pivotal investments in breakthrough technologies for national security.
 
-```shell
-curl google.com
-```
-
-cURL comes installed by default in Windows 10 and macOS. So go ahead, open CMD and give it a whirl. Terminal, if you use macOS.
-
-[Stripe's API reference](https://stripe.com/docs/api/authentication?lang=curl) is a good resource to explore.
-
-If you have CMD open, copy paste into it this test Authentication API call.
-
-```shell
-curl https://api.stripe.com/v1/charges --user sk_test_4eC39HqLyjWDarjtT1zdp7dc:
-```
-
-Take a look at the response. See if you can make sense of it.
-
-## Public Datasets
-
-Public datasets are another great resource to explore. The city of Seattle, for example, has an [Open Data Portal](https://data.seattle.gov/).
-
-The Fremont Bridge Bicycle Counter is a popular dataset in this portal. It records the number of bikes that cross the bridge using the pedestrian/bicycle pathways
-
-Try this.
-
-```shell
-curl https://data.seattle.gov/resource/65db-xm6k.csv --output fremontbikedata.csv
-```
-
-The last bit _--output fremontbikedata.csv_ writes the dataset to a local CSV file which you can explore using Excel or similar tools. To download this in JSON, replace .csv with .json above.
-
-## Wrangle It
-
-If you want to wrangle the Fremont Bridge Counter's JSON dataset right in the command line, try [JQ](https://stedolan.github.io/jq/) or use its online equivalent [JQ Playground](https://jqplay.org/).
-
-**Examples**
-
-_Total number of rows_
-```shell
-. | length
-```
-
-_When crossings across both sidewalks were less than 10_
-```shell
-.[] | select(.fremont_bridge <= "10")
-```
-
-## Guides
-- [Everything Curl](https://ec.haxx.se/) is an extensive guide for all things curl
-- [jq Manual](https://stedolan.github.io/jq/manual/) for way more filter operations
+The genesis of that mission and of DARPA itself dates to the launch of Sputnik in 1957, and a commitment by the United States that, from that time forward, it would be the initiator and not the victim of strategic technological surprises. Working with innovators inside and outside of government, DARPA has repeatedly delivered on that mission, transforming revolutionary concepts and even seeming impossibilities into practical capabilities. The ultimate results have included not only game-changing military capabilities such as precision weapons and stealth technology, but also such icons of modern civilian society such as the Internet, automated voice recognition and language translation, and Global Positioning System receivers small enough to embed in myriad consumer devices.
