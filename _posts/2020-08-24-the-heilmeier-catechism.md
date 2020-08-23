@@ -2,7 +2,7 @@
 layout: post
 title: "DARPA Eight Questions"
 excerpt: "How does DARPA determine what risks are worth taking?"
-date: 2020-08-24
+date: 2020-08-22
 ---
 
 For sixty years, DARPA has held to a singular and enduring mission: to make pivotal investments in breakthrough technologies for national security.
