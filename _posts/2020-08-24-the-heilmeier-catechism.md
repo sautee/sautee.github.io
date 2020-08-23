@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "DARPA Heilmeier Catechism"
-excerpt: "George H. Heilmeier crafted a set of questions known as the Heilmeier Catechism to help Agency officials think through and evaluate proposed research programs."
+title: "Heilmeier Catechism"
+excerpt: "How does DARPA determine what risks are worth taking? "
 date: 2020-08-24
 ---
 
