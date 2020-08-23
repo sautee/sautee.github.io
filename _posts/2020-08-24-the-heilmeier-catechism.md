@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Heilmeier Catechism"
-excerpt: "George H. Heilmeier, a former DARPA director (1975-1977), crafted a set of questions known as the "Heilmeier Catechism" to help Agency officials think through and evaluate proposed research programs."
+excerpt: "George H. Heilmeier, a former DARPA director (1975-1977), crafted a set of questions known as the Heilmeier Catechism to help Agency officials think through and evaluate proposed research programs."
 date: 2020-08-24
 ---
 
