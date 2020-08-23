@@ -2,10 +2,10 @@
 layout: post
 title: "Heilmeier Catechism"
 excerpt: "George H. Heilmeier, a former DARPA director (1975-1977), crafted a set of questions known as the Heilmeier Catechism to help Agency officials think through and evaluate proposed research programs."
-date: 2020-08-23
+date: 2020-08-24
 ---
 
-DARPA is the US' Defense Advanced Research Projects Agency, formerly ARPA.
+DARPA is the US' Defense Advanced Research Projects Agency, formerly known as ARPA.
 
 For sixty years, DARPA has held to a singular and enduring mission: to make pivotal investments in breakthrough technologies for national security.
 
