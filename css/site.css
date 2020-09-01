@@ -21,8 +21,11 @@ p {
 }
 
 ul,
-ol {
-  line-height: 1.5em;
+ol,
+li {
+  line-height: 1.4em;
+  font-size:1rem;
+  font-weight:800;
 }
 
 a {
