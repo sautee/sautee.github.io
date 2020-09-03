@@ -4,8 +4,8 @@ layout: default
   
 	<main class="container">
 		<article>
-			<h1 class="title">{{ page.title }}</h1>
-			<p class="byline">{{ page.date | date_to_string }} - {{ page.author }}</p>
-			<p class="content">{{ content }}</p>
+			<h1><a href="{{ site.base_url }}{{ page.url }}">{{ page.title }}</a></h1>
+			<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+			<p>{{ content }}</p>
 		</article>
 	</main>
