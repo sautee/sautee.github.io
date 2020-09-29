@@ -119,7 +119,7 @@ footer {
 .highlight .vi { color: #008080 } /* Name.Variable.Instance */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 768px) {
   /* Desktop styles go here */
 body {
   margin: 60px auto;
