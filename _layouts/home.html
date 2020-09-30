@@ -8,8 +8,8 @@ layout: default
     </h1>
     {{ content }}
     <div class="mainshow">
-        <div class="sidebar">
-            <h2 class="sidebar-header">Recent Posts</h2>
+        <div class="sidenavbar">
+            <h2 class="sidenavbar-header">Recent Posts</h2>
             {% for post in site.posts %}
             <p><a href="{{ site.base_url }}{{ post.url }}">{{ post.title }}</a></p>
             {% endfor %}
