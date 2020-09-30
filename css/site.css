@@ -6,7 +6,7 @@ html {
 *:before,
 *:after {
   box-sizing: inherit;
-  font-family: monospace;
+  font-family: "Roboto Slab", serif;
 }
 
 body {
