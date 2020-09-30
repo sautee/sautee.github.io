@@ -3,19 +3,17 @@ layout: default
 ---
 
 <main class="container">
-    <div class="mainshow">
-        <div class="sidenavbar">
-            <h2 class="sidenavbar-header">Recent Posts</h2>
-            {% for post in site.posts %}
-            <p><a href="{{ site.base_url }}{{ post.url }}">{{ post.title }}</a></p>
-            {% endfor %}
-        </div>
-        <div class="post">
-            <article>
-                <h1><a href="{{ site.base_url }}{{ page.url }}">{{ page.title }}</a></h1>
-                <p class="date">{{ page.date | date_to_string }}</p>
-                <p class="content">{{ content }}</p>
-            </article>
-        </div>
+    <div class="sidenavbar">
+        <h2 class="sidenavbar-header">Recent Posts</h2>
+        {% for post in site.posts %}
+        <p><a href="{{ site.base_url }}{{ post.url }}">{{ post.title }}</a></p>
+        {% endfor %}
+    </div>
+    <div class="post">
+        <article>
+            <h1><a href="{{ site.base_url }}{{ page.url }}">{{ page.title }}</a></h1>
+            <p class="date">{{ page.date | date_to_string }}</p>
+            <p class="content">{{ content }}</p>
+        </article>
     </div>
 </main>
