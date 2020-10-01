@@ -1,14 +1,10 @@
 <header>
     <nav class="topnavbar">
         <div>
-            <h1>
-                <a href="/">{{ site.title }}</a>
-            </h1>
+            <a href="/" class="site-title">{{ site.title }}</a>
             {% for page in site.pages %}
             {% if page.title and page.hidden != true %}
-            <p>
-                <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-            </p>
+            <a href="{{ page.url | prepend: site.baseurl }}" class="site-pages">{{ page.title }}</a>
             {% endif %}
             {% endfor %}
         </div>
