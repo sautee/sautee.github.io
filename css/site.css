@@ -16,7 +16,7 @@ h1 {
   font-size:1.7em;
 }
 
-.content, p, ul, li, ol {
+.content, p, ul, li, ol, em, strong {
     font-family: "Roboto";
     font-size: 0.9rem;
     line-height: 1.5em;
