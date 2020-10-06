@@ -4,8 +4,10 @@ layout: page
 permalink: /about
 ---
 
-Hi, I'm Andrew Chacko. I work in Product Management. I write on product management, software and technology.
+Hello there, I'm Andrew Chacko!
 
-Have comment or feedback? andrewchacko@me.com
+I hope you're enjoying some of the writing on this site.
 
-_Views expressed here are mine and do not reflect those of my employer._
+Have comment or feedback? Email me at <andrewchacko@me.com>
+
+Views expressed here are mine and do not reflect those of my employer.
