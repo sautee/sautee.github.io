@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6, h7 {
 }
 
 .content, p, ul, li, ol, em, strong {
-    font-family: "Roboto";
+    font-family: "Roboto", sans-serif;
     font-size: 0.9rem;
     line-height: 1.5em;
     color: #333;
