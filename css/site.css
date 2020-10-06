@@ -13,7 +13,11 @@ body {
 }
 
 h1 {
-  font-size:1.7em;
+    font-size:1.7em;
+}
+
+h1, h2, h3, h4, h5, h6, h7 {
+    font-weight:700;
 }
 
 .content, p, ul, li, ol, em, strong {
@@ -65,7 +69,7 @@ footer {
 .topnavbar .site-title {
     font-family: "Roboto", sans-serif;
     font-size: 20px;
-    font-weight: bold;
+    font-weight: 700;
     text-decoration: none;
 }
 
