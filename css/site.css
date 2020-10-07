@@ -43,6 +43,18 @@ footer {
     font-size: 0.8em;
 }
 
+.imgcap {
+    color: #888888;
+    font-size: 0.9em;
+    text-align: center;
+    padding:10px 0;
+}
+
+.imgcap img {
+    border: 1px solid #888888;
+    max-width: 100%;
+}
+
 .date {
     font-size: small;
     font-family: "Roboto";
