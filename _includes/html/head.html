@@ -17,6 +17,19 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:creator" content="@theandrewchacko">
 
+<!-- google analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google-analytics }}"></script>
+<script>
+    if (!(navigator.doNotTrack == "1" || window.doNotTrack == "1")) {
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', '{{ site.google-analytics }}');
+    }
+</script>
+
 <!-- google fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
