@@ -15,7 +15,7 @@ body {
 .content, p, ul, li, ol, em, strong {
     font-family: "Roboto", sans-serif;
     line-height: 1.5em;
-    color: #333;
+    color: #000000;
 }
 
 a {
@@ -26,16 +26,15 @@ a {
 blockquote {
     margin: 0 0.5em;
     padding: 0 1em;
-    color: #6a737d;
-    border-left: 0.1em solid #dfe2e5;
+    border-left: 0.1em solid #9e9e9e8a;
 }
 
 blockquote p {
-    color: #6a737d;
+    color: #000000;
 }
 
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #9e9e9e8a;
     padding-top: 5px;
     font-size: 0.8em;
 }
