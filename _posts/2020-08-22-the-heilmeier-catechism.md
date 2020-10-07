@@ -7,7 +7,7 @@ date: 2020-08-22
 
 DARPA is the US' Defense Advanced Research Projects Agency, formerly known as ARPA.
 
-<figure class="imgcap">
+<figure>
 <img alt="fighter" src="/assets/fighter.jpg">
 <figcaption>Airborne. Photo: DARPA</figcaption>
 </figure>
