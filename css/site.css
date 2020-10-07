@@ -12,17 +12,8 @@ body {
     width: 90%;
 }
 
-h1 {
-    font-size:1.7em;
-}
-
-h1, h2, h3, h4, h5, h6, h7 {
-    font-weight:700;
-}
-
 .content, p, ul, li, ol, em, strong {
     font-family: "Roboto", sans-serif;
-    font-size: 0.9rem;
     line-height: 1.5em;
     color: #333;
 }
@@ -156,9 +147,13 @@ footer {
   .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
 
 /* Literal.Number.Integer.Long */
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 800px) {
     /* Desktop styles go here */ body {
         margin: 60px 150px;
         width: 40em;
+    }
+
+    .content, p, ul, li, ol, em, strong {
+    font-size: 0.9rem;
     }
 }
