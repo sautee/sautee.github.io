@@ -8,7 +8,7 @@ date: 2020-08-22
 DARPA is the US' Defense Advanced Research Projects Agency, formerly known as ARPA.
 
 <div class="imgcap">
-<img src="/assets/darpa/Fighter.png">
+<img src="/assets/Fighter.png">
 <div class="thecap">Sticking the landing.</div>
 </div>
 
