@@ -90,6 +90,11 @@ footer {
     text-decoration: none;
 }
 
+code span {
+  font-family: monospace,monospace;
+  font-size: 1em;
+}
+
 .highlight pre {
     border: 1px solid #d5d5e9;
     background-color: #eef;
