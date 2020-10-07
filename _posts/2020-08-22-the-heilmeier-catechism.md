@@ -9,7 +9,7 @@ DARPA is the US' Defense Advanced Research Projects Agency, formerly known as AR
 
 <div class="imgcap">
 <img src="/assets/fighter.jpg">
-<div class="thecap">Airborne. Photo: darpa.mil</div>
+<div class="thecap">Airborne. Photo: DARPA</div>
 </div>
 
 For sixty years, DARPA has held to a singular and enduring mission: to make pivotal investments in breakthrough technologies for national security. DARPA reaches for transformational change instead of incremental advances.
