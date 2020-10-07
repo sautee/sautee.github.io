@@ -43,18 +43,14 @@ footer {
     font-size: 0.8em;
 }
 
-figcaption {
-  padding-top:5px;
-}
-
-.imgcap {
+figure {
     color: #888888;
     font-size: 0.9em;
     text-align: center;
     padding:10px 0;
 }
 
-.imgcap img {
+figure img {
     border: 1px solid #888888;
     max-width: 100%;
 }
