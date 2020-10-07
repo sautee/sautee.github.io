@@ -149,11 +149,7 @@ footer {
 /* Literal.Number.Integer.Long */
 @media screen and (min-width: 800px) {
     /* Desktop styles go here */ body {
-        margin: 60px 150px;
-        width: 40em;
-    }
-
-    .content, p, ul, li, ol, em, strong {
-    font-size: 0.9rem;
+        margin: 60px auto;
+        max-width: 50em;
     }
 }
