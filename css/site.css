@@ -188,9 +188,9 @@ code span {
   .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
 
 /* Literal.Number.Integer.Long */
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 600px) {
     /* Tablet styles go here */.font-size-small {
-        font-size: 1.4em;
+        font-size: 1.5em;
     }
 }
 
