@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DARPA Eight Questions"
-excerpt: "How does DARPA determine which risks are worth taking?"
+excerpt: "```brief```How does DARPA determine which risks are worth taking?"
 date: 2020-08-22
 ---
 
