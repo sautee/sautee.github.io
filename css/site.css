@@ -80,7 +80,7 @@ figure img {
 }
 
 .font-size-small {
-    font-size: 1.4em;
+    font-size: 1.3em;
 }
 
 .topnavbar {
@@ -192,5 +192,9 @@ code span {
     /* Desktop styles go here */ body {
         margin: 20px auto;
         max-width: 50em;
+    }
+    
+    .font-size-small {
+        font-size: 1.4em;
     }
 }
