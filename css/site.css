@@ -80,8 +80,7 @@ figure img {
 }
 
 .font-size-small {
-    font-size: 1.3em;
-    font-weight: 400;
+    font-size: 1.2em;
 }
 
 .topnavbar {
@@ -192,7 +191,6 @@ code span {
 @media screen and (min-width: 500px) {
     /* Tablet styles go here */.font-size-small {
         font-size: 1.4em;
-        font-weight: 700;
     }
 }
 
