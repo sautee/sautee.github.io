@@ -117,7 +117,7 @@ code span {
   font-size: 1em;
 }
 
-.highlight pre {
+.highlight pre, .post code {
     border: 1px solid #d5d5e9;
     background-color: #eef;
     padding: 8px 12px;
