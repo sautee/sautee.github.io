@@ -81,6 +81,7 @@ figure img {
 
 .font-size-small {
     font-size: 1.3em;
+    font-weight: 400;
 }
 
 .topnavbar {
@@ -188,13 +189,16 @@ code span {
   .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
 
 /* Literal.Number.Integer.Long */
+@media screen and (min-width: 500px) {
+    /* Tablet styles go here */.font-size-small {
+        font-size: 1.4em;
+        font-weight: 700;
+    }
+}
+
 @media screen and (min-width: 800px) {
     /* Desktop styles go here */ body {
         margin: 20px auto;
         max-width: 50em;
-    }
-    
-    .font-size-small {
-        font-size: 1.4em;
     }
 }
