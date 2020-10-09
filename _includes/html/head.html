@@ -1,4 +1,8 @@
+{% if page.title == "home" %}
+<title>- {{ site.title }}</title>
+{% else %}
 <title>{{ page.title }} - {{ site.title }}</title>
+{% endif %}
 
 <meta charset="utf-8">
 <meta name="description" content="{{ site.description }}">
@@ -18,7 +22,6 @@
 <meta name="twitter:creator" content="@theandrewchacko">
 
 <!-- google analytics -->
-<!-- stop analytics
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google-analytics }}"></script>
 <script>
     if (!(navigator.doNotTrack == "1" || window.doNotTrack == "1")) {
@@ -30,11 +33,11 @@
         gtag('config', '{{ site.google-analytics }}');
     }
 </script>
--->
 
 <!-- google fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&family=Roboto:wght@400;700&display=swap"
+    rel="stylesheet">
 
- <!-- css -->
+<!-- css -->
 <link rel="stylesheet" href="/css/normalize.min.css" />
 <link rel="stylesheet" href="/css/site.css">
