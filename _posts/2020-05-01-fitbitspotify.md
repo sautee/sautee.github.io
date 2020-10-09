@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Product Case Study - Fitbit vs Spotify"
+title: "Fitbit vs Spotify"
 excerpt: "Marty Cagan on Fitbit, Spotify and empowered product teams."
 date: 2020-05-01
 ---
