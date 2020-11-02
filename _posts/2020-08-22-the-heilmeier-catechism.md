@@ -35,7 +35,7 @@ George Heilmeier, a former DARPA director (1975-1977), crafted a set of question
 8. What are the mid-term and final “exams” to check for success?
 
 ## Related Reading
-Ben Reinhardt's exposition [Why does DARPA work?](https://benjaminreinhardt.com/wddw#riffing_on_the_arpa_model_mini) takes a deep dive into the DARPA model to understand if organizations in other domains can riff on it to generate equally huge results. He explores these major areas
+Ben Reinhardt's exposition, [Why does DARPA work?](https://benjaminreinhardt.com/wddw#riffing_on_the_arpa_model_mini), takes a deep dive into the DARPA model to understand if organizations in other domains can riff on the model to generate equally huge results. He explores these major areas
 
 - Program Managers
 - Incentives and Structure
