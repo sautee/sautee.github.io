@@ -28,7 +28,7 @@ article > h1, h2, h3, h4 {
 }
 
 blockquote {
-    margin: 0 0.2em;
+    margin: 0 0.5em;
     padding: 0 0.45em;
     border-left: 0.2em dotted #9e9e9e8a;
     background-color:#faf6d7;
