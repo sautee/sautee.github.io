@@ -23,7 +23,7 @@ curl https://api.stripe.com/v1/charges --user sk_test_4eC39HqLyjWDarjtT1zdp7dc:
 
 Take a look at the response. See if you can make sense of it.
 
-## Public Datasets
+### Public Datasets
 
 Public datasets are another great resource to explore. The city of Seattle, for example, has an [Open Data Portal](https://data.seattle.gov/).
 
@@ -37,7 +37,7 @@ curl https://data.seattle.gov/resource/65db-xm6k.csv --output fremontbikedata.cs
 
 The last bit _--output fremontbikedata.csv_ writes the dataset to a local CSV file which you can explore using Excel or similar tools. To download this in JSON, replace .csv with .json above.
 
-## Wrangle It
+### Wrangle It
 
 If you want to wrangle the Fremont Bridge Counter's JSON dataset right in the command line, try [JQ](https://stedolan.github.io/jq/) or use its online equivalent [JQ Playground](https://jqplay.org/).
 
@@ -53,6 +53,6 @@ _When crossings across both sidewalks were less than 10_
 .[] | select(.fremont_bridge <= "10")
 ```
 
-## Guides
+### Guides
 - [Everything Curl](https://ec.haxx.se/) is an extensive guide for all things curl
 - [jq Manual](https://stedolan.github.io/jq/manual/) for way more filter operations
