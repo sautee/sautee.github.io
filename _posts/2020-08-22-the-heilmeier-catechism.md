@@ -43,7 +43,6 @@ Ben Reinhardt's exposition [Why does DARPA work?](https://benjaminreinhardt.com/
 - Process
 
 ## Sources, See Also
-<https://www.darpa.mil/>
-
-<https://history.nasa.gov/sputnik.html>
+- <https://www.darpa.mil/>
+- <https://history.nasa.gov/sputnik.html>
 
