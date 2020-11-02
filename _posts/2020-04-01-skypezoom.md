@@ -9,7 +9,7 @@ I was reading up on an article in [The Verge](https://www.theverge.com/2020/3/31
 
 --
 
-## TL;DR
+### TL;DR
 
 The verdict is in. With the ongoing covid-19 pandemic the video conferencing application Zoom is having its moment. 
 
@@ -17,7 +17,7 @@ Zoom has become the video conferencing app of choice for many across the globe. 
 
 Skype, which was the conferencing app of choice just a few years ago, is struggling to have a similar moment. Skype was so popular it was included in the Oxford dictionary and used as a verb - **'I'll Skype you tomorrow'**. It still has around 23 million daily active users, but it'll likely be replaced by Microsoft Teams in both commercial and enterprise.
 
-## SKYPE IS NOT FEELING WELL
+### SKYPE IS NOT FEELING WELL
 
 Skype was acquired by Microsoft in 2011 for a mere **$8.5 billion**. 2011 is also the year Zoom was founded.
 
@@ -33,7 +33,7 @@ Skype became unreliable at a time when rivals such as Zoom were offering **solid
 
 It seemed like Microsoft was not listening to what users wanted.
 
-## THE RISE OF ZOOM
+### THE RISE OF ZOOM
 
 Right from the beginning Zoom had a **singular purpose** - join conference calls with a single click (nearly).
 
@@ -45,7 +45,7 @@ It does have its criticisms especially around privacy and security. These concer
 
 Zoom currently sits on the top of the US App Store list and in second position in the UK App Store.
 
-## UPDATES
+### UPDATES
 
 Zoom 5.0, released April 27th, came with a slew of [security improvements](https://blog.zoom.us/wordpress/2020/04/27/its-here-5-things-to-know-about-zoom-5-0/)
 
