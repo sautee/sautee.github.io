@@ -12,13 +12,14 @@ DARPA is the US' Defense Advanced Research Projects Agency, formerly known as AR
 <figcaption>Airborne. Photo: DARPA</figcaption>
 </figure>
 
-For sixty years, DARPA has held to a singular and enduring mission: to make pivotal investments in breakthrough technologies for national security. DARPA reaches for transformational change instead of incremental advances.
+For 60 years DARPA has held to a singular and enduring mission: to make pivotal investments in breakthrough technologies for national security. DARPA reaches for transformational change instead of incremental advances.
 
-The genesis of DARPA dates back to the launch of Sputnik in 1957, and a commitment by the United States that, from that time forward, it would be the initiator and not the victim of strategic technological surprises. 
+The genesis of DARPA dates back to the launch of Sputnik in 1957 ([hear the beep](https://www.nasa.gov/mp3/191322main_sputnik-beep.mp3)), and a commitment by the United States that, from that time forward, it would be the initiator and not the victim of strategic technological surprises. 
 
-Working with innovators inside and outside of government, DARPA has repeatedly delivered on that mission, transforming revolutionary concepts and even seeming impossibilities into practical capabilities. The results have not only included game-changing military capabilities such as precision weapons and stealth technolog, but also icons of modern society such as the Internet, automated voice recognition, language translation, and Global Positioning System (GPS) receivers small enough to embed in consumer devices.
 
-This [timeline](https://www.darpa.mil/Timeline/index) showcases some of DARPA's important innovations over the last 60 years. It is worth your time.
+Working with innovators inside and outside of government, DARPA has repeatedly delivered on that mission, transforming revolutionary concepts and even seeming impossibilities into practical capabilities. The results have not only included game-changing military capabilities such as precision weapons and stealth technology, but also icons of modern society such as the Internet, automated voice recognition, language translation, and Global Positioning System (GPS) receivers small enough to embed in consumer devices.
+
+This [timeline](https://www.darpa.mil/Timeline/index) showcases some of DARPA's important innovations over the last six decades. It is worth your time.
 
 DARPA operates on the principle that generating big rewards requires taking big risks. But how does the Agency determine which risks are worth taking? 
 
@@ -41,7 +42,7 @@ Ben Reinhardt's exposition [Why does DARPA work?](https://benjaminreinhardt.com/
 - Funding
 - Process
 
-## Sources
+## Sources, See Also
 <https://www.darpa.mil/>
-
+<https://history.nasa.gov/sputnik.html>
 
