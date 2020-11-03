@@ -201,4 +201,8 @@ code span {
         margin: 20px auto;
         max-width: 50em;
     }
+    
+    article.post-content {
+        width: 90%;
+    } 
 }
