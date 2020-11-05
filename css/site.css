@@ -4,7 +4,7 @@ html {
 
 *, *:before, *:after {
     box-sizing: inherit;
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto Slab", serif;
 }
 
 body {
@@ -13,7 +13,7 @@ body {
 }
 
 .content, p, ul, li, ol, em, strong {
-    font-family: "Roboto Slab", serif;
+    font-family: "Roboto", sans-serif;
     line-height: 1.6em;
     color: #000000;
 }
