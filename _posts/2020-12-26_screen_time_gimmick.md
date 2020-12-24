@@ -1,8 +1,8 @@
 <!---
 layout: post
-title: "Boeing"
-excerpt: "boeing"
-date: 2020-11-01
+title: "Screen Time Is A Gimmick"
+excerpt: "Screen time"
+date: 2020-12-26
 --->
 
 Boeing
