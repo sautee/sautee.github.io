@@ -1,6 +1,7 @@
 ---
 title: Field Notes
 layout: page
+hidden : true
 permalink: /fieldnotes
 ---
 
