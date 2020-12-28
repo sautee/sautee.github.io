@@ -4,13 +4,13 @@ layout: page
 hidden : true
 permalink: /fieldnotes
 ---
+From around the web.
 
 ### Unglue your strategy
 Rita Gunther McGrath - [HBR](https://hbr.org/2013/06/transient-advantage)
 
 - Change is the only constant
 - No competitive advantage is sustainable
-
 
 ### Evaluating market opportunities
 Marc Gruber, Sharon Tal - [WhereToPlay](https://wheretoplay.co/flyability-safe-drones-for-inaccessible-places)
