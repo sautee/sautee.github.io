@@ -12,7 +12,7 @@ Rita Gunther McGrath - <https://hbr.org/2013/06/transient-advantage>
 
 
 ### Market Opportunity Navigator 
-Marc Gruber, Sharon Tal - ‹https://wheretoplay.co/flyability-safe-drones-for-inaccessible-places›
+Marc Gruber, Sharon Tal - <https://wheretoplay.co/flyability-safe-drones-for-inaccessible-places>
 
 - A great exercise to think through market opportunities and what to focus on
 
