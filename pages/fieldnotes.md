@@ -6,7 +6,7 @@ permalink: /fieldnotes
 ---
 
 ### Unglue your strategy
-Rita Gunther McGrath - (HBR)[https://hbr.org/2013/06/transient-advantage]
+Rita Gunther McGrath - [HBR](https://hbr.org/2013/06/transient-advantage)
 
 - Change is the only constant
 - No competitive advantage is sustainable
