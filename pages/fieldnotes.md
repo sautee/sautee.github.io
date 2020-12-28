@@ -15,6 +15,8 @@ Rita Gunther McGrath - <https://hbr.org/2013/06/transient-advantage>
 Marc Gruber, Sharon Tal - <https://wheretoplay.co/flyability-safe-drones-for-inaccessible-places>
 
 - A great exercise to think through market opportunities and what to focus on
+- The link evaluates a real life case study
+- Navigator worksheets are available for download
 
 ### 4 types of markets
 Steve Blank - <https://www.wsj.com/articles/BL-232B-243>
