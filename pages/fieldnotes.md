@@ -4,7 +4,7 @@ layout: page
 permalink: /fieldnotes
 ---
 
-### Transient Advantage
+### Unglue your strategy
 Rita Gunther McGrath - <https://hbr.org/2013/06/transient-advantage>
 
 - Change is the only constant
