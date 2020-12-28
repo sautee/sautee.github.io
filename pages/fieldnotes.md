@@ -4,6 +4,18 @@ layout: page
 permalink: /fieldnotes
 ---
 
+### Transient Advantage
+Rita Gunther McGrath - <https://hbr.org/2013/06/transient-advantage>
+
+- Change is the only constant
+- No competitive advantage is sustainable
+
+
+### Market Opportunity Navigator 
+Marc Gruber, Sharon Tal - ‹https://wheretoplay.co/flyability-safe-drones-for-inaccessible-places/›
+
+- A great exercise to think through market opportunities and what to focus on
+
 ### 4 types of markets
 Steve Blank - <https://www.wsj.com/articles/BL-232B-243>
 
