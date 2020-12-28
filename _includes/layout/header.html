@@ -2,11 +2,6 @@
     <nav class="topnavbar">
         <div>
             <a href="/" class="site-title">{{ site.title }}</a>
-            {% for page in site.pages %}
-            {% if page.title and page.hidden != true %}
-            <a href="{{ page.url | prepend: site.baseurl }}" class="site-pages">{{ page.title }}</a>
-            {% endif %}
-            {% endfor %}
         </div>
         <div>
             <p>On product management, software and technology.</p>
