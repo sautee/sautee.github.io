@@ -11,10 +11,10 @@ Rita Gunther McGrath - <https://hbr.org/2013/06/transient-advantage>
 - No competitive advantage is sustainable
 
 
-### Market Opportunity Navigator 
+### Evaluating market opportunities
 Marc Gruber, Sharon Tal - <https://wheretoplay.co/flyability-safe-drones-for-inaccessible-places>
 
-- A great exercise to think through market opportunities and what to focus on
+- A great exercise to think through market opportunities and what to focus on primarily
 - The link evaluates a real life case study
 - Navigator worksheets are available for download
 
