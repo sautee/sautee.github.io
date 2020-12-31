@@ -1,9 +1,9 @@
-<!---
+---
 layout: post
-title: "Screen Time Is A Gimmick"
-excerpt: "Screen time"
+title: "Adios 2020"
+excerpt: "Everything non covid19"
 date: 2020-12-26
---->
+---
 
 Coffeezilla has a line that goes 'You can't be making money online making how to make money online video, if you spend your time watching how to make money online videos'. So I surface from my online rabbit hole to do something more useful with my time - this article.
 
@@ -29,9 +29,9 @@ Writing. Writing requires a certain discipline. When I started DoC, I wou ld wor
 
 ## On Bahrain
 
-We've been to the same malls a 100 times. Being a very small island country there is a sense of community. Of historic significance this year was the peace agreement signed with Israel. Bahrain's response to the Coronavirus has been effective. Masks and social distancing were enforced quite early. Bahrain's vaccination effort is second only to Israel. 
+We've been to the same malls a 100 times. Being a very small island country there is a sense of community. Of historic significance this year was the peace agreement signed with Israel. Bahrain's response to the Coronavirus has been effective. Masks and social distancing were enforced quite early. Bahrain's vaccination effort is second only to Israel.
 
-
+No one needs to be told how Coronavirus felt like. 
 
 Remember to breathe.
 
