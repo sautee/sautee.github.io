@@ -2,7 +2,7 @@
 layout: post
 title: "Adios 2020"
 excerpt: "Everything non covid19"
-date: 2020-12-26
+date: 2020-12-30
 ---
 
 Coffeezilla has a line that goes 'You can't be making money online making how to make money online video, if you spend your time watching how to make money online videos'. So I surface from my online rabbit hole to do something more useful with my time - this article.
