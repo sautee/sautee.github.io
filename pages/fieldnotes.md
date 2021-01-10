@@ -12,7 +12,7 @@ Freek Vermeulen - [HBR](https://hbr.org/2017/11/many-strategies-fail-because-the
 - Many so called *strategies* are in fact goals or priorities (increase revenue in X)
 - Clear strategy - (1) we're going to address X (2) for Y (3) so that they can do Z
 - Employees should be aware of choices made and believe in them
-- Empower employees to create button up initiatives that fall within the choices made
+- Empower employees to create bottom up initiatives that fall within the choices made
 - Change the way you do things unless the old way is substantially better
 
 ### Unglue Your Strategy
