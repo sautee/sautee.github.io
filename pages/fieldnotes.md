@@ -8,7 +8,7 @@ permalink: /fieldnotes
 ### Why Product Strategy Fails
 Freek Vermeulen - [HBR](https://hbr.org/2017/11/many-strategies-fail-because-theyre-not-actually-strategies)
 
-- Real strategy is a clear set of choices - what we're going to do and what not going to do
+- Real strategy is a clear set of choices - what we're going to do and what *not* going to do
 - Many so called 'strategies' are in fact goals or priorities (increase revenue in X)
 - Clear strategy - (1) we're going to address X (2) for Y (3) so that they can do Z
 - Employees recollect these choices and believe in them
