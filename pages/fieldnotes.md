@@ -6,7 +6,7 @@ permalink: /fieldnotes
 ---
 
 ### Why Product Strategy Fails
-Freek Vermulen - [HBR](https://hbr.org/2017/11/many-strategies-fail-because-theyre-not-actually-strategies)
+Freek Vermeulen - [HBR](https://hbr.org/2017/11/many-strategies-fail-because-theyre-not-actually-strategies)
 
 - Real strategy is a clear set of choices - what we're going to do and what not going to do
 - Many so called *strategies* are in fact goals or priorities (increase revenue in X)
