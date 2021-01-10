@@ -12,7 +12,7 @@ Freek Vermeulen - [HBR](https://hbr.org/2017/11/many-strategies-fail-because-the
 - Many so called 'strategies' are in fact goals or priorities (increase revenue in X)
 - Clear strategy - (1) we're going to address X (2) for Y (3) so that they can do Z
 - Everyone is aligned  - imagine your team is wildly successful in 3 years. What does that look like?
-- Empower employees to create bottom up initiatives within the purview of these choices (instead of pushing top down)
+- Empower the team to create bottom up initiatives within the purview of these choices (instead of pushing top down)
 - Also see Julie Zhou's excellent [How to be Strategic](https://medium.com/the-year-of-the-looking-glass/how-to-be-strategic-f6630a44f86b)
 
 ### Unglue Your Strategy
