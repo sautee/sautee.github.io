@@ -27,8 +27,8 @@ Rita Gunther McGrath - [HBR](https://hbr.org/2013/06/transient-advantage)
 Marc Gruber, Sharon Tal - [WhereToPlay](https://wheretoplay.co/flyability-safe-drones-for-inaccessible-places)
 
 - A great exercise to think through market opportunities and what to focus on primarily
-- The link evaluates a real life case study
-- Navigator worksheets are available for download
+- Evaluates a real life case study
+- Also see Steve Blank's [explainer](https://steveblank.com/category/market-types/)
 
 ### Four Types of Markets
 Steve Blank - [WSJ](https://www.wsj.com/articles/BL-232B-243)
@@ -36,5 +36,4 @@ Steve Blank - [WSJ](https://www.wsj.com/articles/BL-232B-243)
 - There are 4 types of markets - Existing, Resegmented, New, Clone
 - Know the market you are in - it is important 
 - Strategy and tactics for one market type seldom work for another
-- Tools like [customer discovery](https://steveblank.com/2020/04/07/customer-discovery-in-the-time-of-the-covid-19-virus/) prove vital
-- Also see Steve Blank's [explainer](https://steveblank.com/category/market-types/)
+- Tools like [customer discovery](https://steveblank.com/2020/04/07/customer-discovery-in-the-time-of-the-covid-19-virus/) prove
