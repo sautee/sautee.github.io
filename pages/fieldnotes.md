@@ -13,7 +13,7 @@ Freek Vermeulen - [HBR](https://hbr.org/2017/11/many-strategies-fail-because-the
 - Clear strategy - (1) we're going to address X (2) for Y (3) so that they can do Z
 - Everyone is aligned  - imagine your team is wildly successful in 3 years. What does that look like?
 - Empower the team to create bottom up initiatives within the purview of these choices (instead of pushing top down)
-- Also see Julie Zhou's excellent [How to be Strategic](https://medium.com/the-year-of-the-looking-glass/how-to-be-strategic-f6630a44f86b) and her [LinkedIn post](https://www.linkedin.com/posts/julie-zhuo_whenever-i-hear-a-product-pitch-the-thing-activity-6752016073656270848-ogAQ)
+- Also see Julie Zhou's excellent [How to be Strategic](https://medium.com/the-year-of-the-looking-glass/how-to-be-strategic-f6630a44f86b) and this [LinkedIn post](https://www.linkedin.com/posts/julie-zhuo_whenever-i-hear-a-product-pitch-the-thing-activity-6752016073656270848-ogAQ)
 
 ### Unglue Your Strategy
 Rita Gunther McGrath - [HBR](https://hbr.org/2013/06/transient-advantage)
