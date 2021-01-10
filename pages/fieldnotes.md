@@ -34,5 +34,6 @@ Marc Gruber, Sharon Tal - [WhereToPlay](https://wheretoplay.co/flyability-safe-d
 Steve Blank - [WSJ](https://www.wsj.com/articles/BL-232B-243)
 
 - There are 4 types of markets - Existing, Resegmented, New, Clone
+- Know the kind of market you're operating in - it is important 
 - You can gauge demand by [customer discovery](https://steveblank.com/2020/04/07/customer-discovery-in-the-time-of-the-covid-19-virus/) for Existing, Resegmented and Clone markets
-- New markets have no customers or competitors, talk to people to figure how your product might change their day to day
+- New markets have no customers or competitors
