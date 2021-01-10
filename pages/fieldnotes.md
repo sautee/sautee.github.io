@@ -11,9 +11,9 @@ Freek Vermeulen - [HBR](https://hbr.org/2017/11/many-strategies-fail-because-the
 - Real strategy is a clear set of choices - what we're going to do and what not going to do
 - Many so called 'strategies' are in fact goals or priorities (increase revenue in X)
 - Clear strategy - (1) we're going to address X (2) for Y (3) so that they can do Z
-- Employees can recollect these choices and believe in them
-- Empower employees to create bottom up initiatives within the context of these choices
-- Change the way you do things unless the old way is substantially better
+- Employees recollect these choices and believe in them
+- Empower employees to create bottom up initiatives within the purview of these choices (instead of pushing top down)
+- Also see Julie Zhou's excellent [How to be Strategic](https://medium.com/the-year-of-the-looking-glass/how-to-be-strategic-f6630a44f86b)
 
 ### Unglue Your Strategy
 Rita Gunther McGrath - [HBR](https://hbr.org/2013/06/transient-advantage)
