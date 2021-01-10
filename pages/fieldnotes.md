@@ -15,7 +15,7 @@ Freek Vermeulen - [HBR](https://hbr.org/2017/11/many-strategies-fail-because-the
 - Empower employees to create button up initiatives that fall within the choices made
 - Change the way you do things unless the old way is substantially better
 
-### Unglue your strategy
+### Unglue Your Strategy
 Rita Gunther McGrath - [HBR](https://hbr.org/2013/06/transient-advantage)
 
 - Competitive advantage is transient 
@@ -23,17 +23,17 @@ Rita Gunther McGrath - [HBR](https://hbr.org/2013/06/transient-advantage)
 - Embrace continuous change, avoid rigidity
 - Strategy should be fluid, customer centric, less industry bound
 
-### Evaluating market opportunities
+### Target Market Roulette 
 Marc Gruber, Sharon Tal - [WhereToPlay](https://wheretoplay.co/flyability-safe-drones-for-inaccessible-places)
 
 - A great exercise to think through market opportunities and what to focus on primarily
 - The link evaluates a real life case study
 - Navigator worksheets are available for download
 
-### 4 types of markets
+### Four Types of Markets
 Steve Blank - [WSJ](https://www.wsj.com/articles/BL-232B-243)
 
 - There are 4 types of markets - Existing, Resegmented, New, Clone
-- Know the kind of market you're operating in - it is important 
-- You can gauge demand by [customer discovery](https://steveblank.com/2020/04/07/customer-discovery-in-the-time-of-the-covid-19-virus/) for Existing, Resegmented and Clone markets
-- New markets have no customers or competitors
+- Know the market you are in - it is important 
+- Strategy and tactics for one market type seldom work for another
+- Tools like [customer discovery](https://steveblank.com/2020/04/07/customer-discovery-in-the-time-of-the-covid-19-virus/) prove vital
