@@ -26,8 +26,7 @@ Rita Gunther McGrath - [HBR](https://hbr.org/2013/06/transient-advantage)
 ### Target Market Roulette 
 Marc Gruber, Sharon Tal - [WhereToPlay](https://wheretoplay.co/flyability-safe-drones-for-inaccessible-places)
 
-- A great exercise to think through market opportunities and what to focus on primarily
-- Evaluates a real life case study
+- A real life case study to evaluate market opportunities
 - Also see Steve Blank's [explainer](https://steveblank.com/category/market-types/)
 
 ### Four Types of Markets
