@@ -18,8 +18,10 @@ Freek Vermulen - [HBR](https://hbr.org/2017/11/many-strategies-fail-because-they
 ### Unglue your strategy
 Rita Gunther McGrath - [HBR](https://hbr.org/2013/06/transient-advantage)
 
-- Change is the only constant
-- No competitive advantage is sustainable
+- Competitive advantage is transient 
+- Abandon the idea that stability in business is the norm
+- Embrace continuous change, avoid rigidity
+- Strategy should be fluid, customer centric, less industry bound
 
 ### Evaluating market opportunities
 Marc Gruber, Sharon Tal - [WhereToPlay](https://wheretoplay.co/flyability-safe-drones-for-inaccessible-places)
