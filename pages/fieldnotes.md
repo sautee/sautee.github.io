@@ -35,4 +35,4 @@ Steve Blank - [WSJ](https://www.wsj.com/articles/BL-232B-243)
 - There are 4 types of markets - Existing, Resegmented, New, Clone
 - Know the market you are in - it is important 
 - Strategy and tactics for one market type seldom work for another
-- Tools like [customer discovery](https://steveblank.com/2020/04/07/customer-discovery-in-the-time-of-the-covid-19-virus/) prove
+- Tools like [customer discovery](https://steveblank.com/2020/04/07/customer-discovery-in-the-time-of-the-covid-19-virus/) prove vital
