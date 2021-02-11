@@ -10,7 +10,8 @@ Note to myself - [LinkedIn](https://www.linkedin.com/posts/andrew-chacko_product
 
 - As a user, the system I use should work for me instead of me having to work the system.
 - A good everyday example is Google Search's [Autocomplete](https://www.google.com/amp/s/blog.google/products/search/how-google-autocomplete-works-search/).
-- Uers should feel like the product was made just for them.
+- As Amy Hoy put it - "You’ll need to understand your audience so deeply you can speak their language, anticipate their needs, and predict their reactions."
+- Users should feel like the product was made just for them.
 
 ### Why Product Strategy Fails
 Freek Vermeulen - [HBR](https://hbr.org/2017/11/many-strategies-fail-because-theyre-not-actually-strategies)
