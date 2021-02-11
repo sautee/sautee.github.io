@@ -5,6 +5,12 @@ hidden : true
 permalink: /fieldnotes
 ---
 
+###On Customer Empathy
+Note to myself - [LinkedIn](https://www.linkedin.com/posts/andrew-chacko_productdesign-productmanagment-activity-6765509141671751680-xZKt)
+As a user, the system I use should work for me instead of me having to work the system.
+
+A good everyday example is Google Search's Autocomplete.
+
 ### Why Product Strategy Fails
 Freek Vermeulen - [HBR](https://hbr.org/2017/11/many-strategies-fail-because-theyre-not-actually-strategies)
 
