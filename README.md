@@ -1,3 +1,3 @@
-# A DASH OF COMPUTE
+# A Dash Of Compute!
 
 On product management, software and technology.
