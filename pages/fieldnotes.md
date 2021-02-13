@@ -6,10 +6,12 @@ permalink: /fieldnotes
 ---
 
 ### On Customer Empathy
-Note to myself - [LinkedIn](https://www.linkedin.com/posts/andrew-chacko_productdesign-productmanagment-activity-6765509141671751680-xZKt)
+Nicole Westman - [The Verge](https://www.theverge.com/platform/amp/2021/1/31/22256167/covid-vaccine-website-nyc-appointment)
 
 - As a user, the system I use should work for me instead of me having to work the system.
-- A good everyday example is Google Search's Autocomplete
+- COVID vaccination appointments is inaccessible for the people who needed them the most - 65+ year old folks
+- State appointment websites are incredibly buggy and hard to use
+- Young techies and volunteers built easy to use 
 
 ### Why Product Strategy Fails
 Freek Vermeulen - [HBR](https://hbr.org/2017/11/many-strategies-fail-because-theyre-not-actually-strategies)
