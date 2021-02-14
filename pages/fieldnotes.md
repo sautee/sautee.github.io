@@ -2,7 +2,7 @@
 title: Field Notes
 layout: page
 permalink: /fieldnotes
-date: 02-14-2021
+date: 2021-02-14
 ---
 
 ### On Customer Empathy
