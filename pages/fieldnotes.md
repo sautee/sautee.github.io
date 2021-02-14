@@ -1,6 +1,6 @@
 ---
+layout: notes
 title: Field Notes
-layout: post
 permalink: /fieldnotes
 date: 2021-02-14
 ---
