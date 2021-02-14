@@ -3,7 +3,6 @@ title: Field Notes
 layout: page
 permalink: /fieldnotes
 ---
-
 <p class="date">Last updated: 14 Feb 2021</p>
 
 ### On Customer Empathy
