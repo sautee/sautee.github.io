@@ -1,7 +1,8 @@
 ---
 title: Field Notes
-layout: page
+layout: post
 permalink: /fieldnotes
+date: 2021-02-14
 ---
 <p class="date">Last updated: 14 Feb 2021</p>
 
