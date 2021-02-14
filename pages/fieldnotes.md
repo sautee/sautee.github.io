@@ -12,7 +12,7 @@ Nicole Westman - [The Verge](https://www.theverge.com/platform/amp/2021/1/31/222
 - A great recent example is techies and volunteers banding up to create easy to use websites that scrape COVID vaccination appointments from multiple locations into one place.
 - Their efforts made it easier for older folk, the primary initial target group, to easily find appointments and sign up for them.
 - This in place of state websites that failed to be user friendly for this group.
-- Examples - [New York](https://nycvaccinelist.com/), [California](https://www.vaccinateca.com/), (Massachusetts)[https://www.macovidvaccines.com/] 
+- Examples - [New York](https://nycvaccinelist.com/), [California](https://www.vaccinateca.com/), [Massachusetts](https://www.macovidvaccines.com/)
 - Follow on reading (Normcore Tech)[https://vicki.substack.com/p/the-last-miles-and-miles-of-the-vaccine], (NYTimes)[https://www.nytimes.com/2021/02/09/nyregion/vaccine-website-appointment-nyc.html]
 
 ### Why Product Strategy Fails
