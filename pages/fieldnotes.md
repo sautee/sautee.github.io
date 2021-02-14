@@ -4,7 +4,6 @@ layout: post
 permalink: /fieldnotes
 date: 2021-02-14
 ---
-<p class="date">Last updated: 14 Feb 2021</p>
 
 ### On Customer Empathy
 Nicole Westman - [The Verge](https://www.theverge.com/platform/amp/2021/1/31/22256167/covid-vaccine-website-nyc-appointment)
