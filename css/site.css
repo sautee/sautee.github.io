@@ -114,6 +114,10 @@ figure img {
     text-decoration: none;
 }
 
+.post a:hover {
+    text-decoration: underline;
+}
+
 code span {
   font-family: monospace,monospace;
   font-size: 1em;
