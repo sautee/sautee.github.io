@@ -203,7 +203,7 @@ code span {
 @media screen and (min-width: 800px) {
     /* Desktop styles go here */ body {
         margin: 20px auto;
-        max-width: 60em;
+        max-width: 55em;
     }
     
     article.post-content {
