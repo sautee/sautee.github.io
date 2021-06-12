@@ -26,9 +26,9 @@ Going into 2016, Vimeo's strategy was to invest in original content and become a
 
 Considering these factors, Vimeo switched strategy in 2017.
 
-> *Old strategy. Become an entertainment destination where viewers watch with a paid subscription.*
+> Old strategy. Become an entertainment destination where viewers watch with a paid subscription.
 >
-> *Old value proposition*. O*riginal content.*
+> Old value proposition. Original content.
 
 **Bigger Opportunities**
 ------------------------
@@ -63,9 +63,9 @@ Vimeo's feature set. Source: vimeo.com
 
 At the end of 2020, Vimeo had over 1.5 million paying customers generating $83.8 million in revenue in Q4 alone.
 
-> *New strategy. Technology company that invests in tools for video creators.*
+> New strategy. Technology company that invests in tools for video creators.
 >
-> *New value proposition. Simple tools for any professional, team, and organization to create, manage, and share high-quality videos.*
+> New value proposition. Simple tools for any professional, team, and organization to create, manage, and share high-quality videos.
 
 **How Did Vimeo Do It?**
 ------------------------
