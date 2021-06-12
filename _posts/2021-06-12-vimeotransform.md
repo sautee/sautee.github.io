@@ -55,7 +55,7 @@ Vimeo's new mission is to unlock the power of video for *everyone*.
 
 -   The **professional video team** wanting to collaborate on a video edit.
 
--   The **marketing team** wanting to know how their videos are performing on social media platforms.
+-   The **marketing team** wanting to analyze how their videos are performing on social media platforms.
 
 <figure>
 <img alt="fighter" src="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2d5b349a-ed42-45f7-b2b1-18c2c1522484_1621x491.png">
@@ -91,6 +91,6 @@ Strengths, Threats
 
 Needless to say that Vimeo has competition!. These are primarily from tools that focus on a single area from Vimeo’s repertoire. [Offeo](https://offeo.com/), which is similar to Vimeo Create, does marketing videos alone and offers a fully featured product at a cheaper price point. [Streamlabs](https://streamlabs.com/) offers nearly the same livestreaming features as Vimeo Livestream, but for cheaper. And then there are platforms like [Wistia](https://wistia.com/) which are in direct competition with Vimeo.
 
-Vimeo's strength lies in its mission to continually innovate in the video problem space - and this is helping them deliver innovative solutions. An interesting one is Viemo's [Shopify integration](https://apps.shopify.com/vimeo_product_video_maker) that enables storefront owners to create marketing videos easily. [Vimeo Stock](https://vimeo.com/stock), is another one which allows creators monetize stock footage. A true hard-to-copy, however, is [Vimeo's OTT](https://vimeo.com/ott/home) which enables anyone to stand up their own Netflix like subscription service. I'm sure there's more from where that came from.
+Vimeo's strength lies in its mission to continually innovate in the video problem space - and this is helping them deliver innovative solutions. They’ve built tons of features and app integrations. One example is Vimeo’s [Shopify integration](https://apps.shopify.com/vimeo_product_video_maker) that enables storefront owners to create marketing videos in just a few clicks. [Vimeo Stock](https://vimeo.com/stock) is another one which allows creators to monetize stock footage. A true hard-to-copy, however, is [Vimeo's OTT](https://vimeo.com/ott/home) which enables anyone to stand up their own Netflix like subscription service. I'm sure there's more from where that came from.
 
 Keep it going Vimeo!
