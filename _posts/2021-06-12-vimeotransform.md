@@ -35,11 +35,11 @@ Considering these factors, Vimeo switched strategy in 2017.
 
 Video is a very engaging format. Over 80% of internet traffic is video.
 
-It is great for *marketing*. On social media, video gets three to four times more clicks than images or text.
+It is great for marketing. On social media, video gets three to four times more clicks than images or text.
 
-It is great for *education and training*. Think employee onboarding for distributed teams or product demos.
+It is great for education and training. Think employee onboarding for distributed teams or product demos.
 
-It is also a great way to engage with a *remote audience*. Think livestreams combined with graphics where the audience can interact with the presenter.
+It is also a great way to engage with a remote audience. Think livestreams combined with graphics where the audience can interact with the presenter.
 
 The opportunity? In 2017, a platform where users could do all of this in one place was practically non-existent. Vimeo understood this as a big, underserved market, and decided to pivot from a media company competing with Netflix, to a SaaS technology company.
 
