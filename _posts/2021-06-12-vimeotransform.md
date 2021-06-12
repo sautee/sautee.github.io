@@ -16,13 +16,13 @@ Vimeo is a 16-year-old video platform that many consider an indie version of You
 
 Going into 2016, Vimeo's strategy was to invest in original content and become an entertainment destination competing with Netflix, Hulu and others. There were problems with this direction however.
 
--   Original content was not getting [cheaper](https://www.statista.com/statistics/707302/netflix-video-content-budget/)
+-   Original content was not getting [cheaper](https://www.statista.com/statistics/707302/netflix-video-content-budget/).
 
--   The streaming media marketplace was [crowded](https://en.wikipedia.org/wiki/List_of_streaming_media_services)
+-   The streaming media marketplace was [crowded](https://en.wikipedia.org/wiki/List_of_streaming_media_services).
 
--   Customer acquisition cost was high
+-   Customer acquisition cost was high.
 
--   Not solving new or existing problems for video creators
+-   Not solving new or existing problems for video creators.
 
 Considering these factors, Vimeo switched strategy in 2017.
 
