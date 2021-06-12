@@ -62,6 +62,7 @@ Vimeo's new mission is to unlock the power of video for *everyone*.
 <figcaption>Vimeo's feature set. Source: vimeo.com</figcaption>
 </figure>
 
+
 At the end of 2020, Vimeo had over 1.5 million paying customers generating $83.8 million in revenue in Q4 alone.
 
 > New strategy. Technology company that invests in tools for video creators.
