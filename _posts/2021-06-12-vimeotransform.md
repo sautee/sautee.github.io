@@ -49,9 +49,9 @@ Vimeo's new mission is to unlock the power of video for *everyone*.
 
 -   The **small business** wanting to generate regular marketing content for social media platforms.
 
--   The** corporation** wanting to securely broadcast town halls and trainings to offices all around the world.
+-   The **corporation** wanting to securely broadcast town halls and trainings to offices all around the world.
 
--   The** product team** wanting to demo new features to their sales and marketing teams.
+-   The **product team** wanting to demo new features to their sales and marketing teams.
 
 -   The **professional video team** wanting to collaborate on a video edit.
 
