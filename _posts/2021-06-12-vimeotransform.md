@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vimeo's Transformation"
-excerpt: "On Vimeo’s pivot from a media company to a SaaS technology company"
+excerpt: "On Vimeo’s pivot from a media company to a SaaS technology company."
 date: 2021-06-12
 ---
 
